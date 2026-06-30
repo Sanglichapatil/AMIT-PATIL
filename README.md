@@ -71,13 +71,4 @@ Building practical, hands-on depth in applied AI for data engineering:
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AMIT-PATIL&show_icons=true&hide_border=true&count_private=true" alt="GitHub stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AMIT-PATIL&layout=compact&hide_border=true" alt="Top languages" height="165"/>
-</p>
-
----
-
 <p align="center"><i>Open to interesting data engineering & delivery leadership conversations — feel free to reach out.</i></p>
